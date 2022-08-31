@@ -12,18 +12,18 @@
 
 ### Recent Activity
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bysomeone&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bysomeone&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bysomeone&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <!-- Blockchain  -->
 
@@ -66,7 +66,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bysomeone&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![Metrics](/github-metrics.svg)
