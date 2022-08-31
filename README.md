@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [bysomeone/bysomeone](https://github.com/bysomeone/bysomeone)
-2. ⬆️ Pushed 0 commit(s) to [bysomeone/bysomeone](https://github.com/bysomeone/bysomeone)
-3. ⬆️ Pushed 1 commit(s) to [bysomeone/bysomeone](https://github.com/bysomeone/bysomeone)
-4. ⬆️ Pushed 1 commit(s) to [bysomeone/bysomeone](https://github.com/bysomeone/bysomeone)
-5. ⬆️ Pushed 1 commit(s) to [bysomeone/bysomeone](https://github.com/bysomeone/bysomeone)
+1. 📔 Created new repository [bysomeone/bysomeone](https://github.com/bysomeone/bysomeone)
+2. 🎉 Merged PR [#161](https://github.com/bityuan/bityuan/pull/161) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+3. 💪 Opened PR [#161](https://github.com/bityuan/bityuan/pull/161) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+4. ❗️ Opened issue [#1268](https://github.com/33cn/chain33/issues/1268) in [33cn/chain33](https://github.com/33cn/chain33)
+5. ⭐ Starred [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 31st, 2022, 9:28:23 AM
+Last Updated: Thursday, September 1st, 2022, 5:11:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
