@@ -4,10 +4,10 @@ settings:
   max_lines: 5
 #  readme_file: "./README.md"
   disabled_events:
-    - "comments"
+    - "push"
   url_text: "{REPO}{ID}"
   date:
-    timezone: "GMT+00:00"
+    timezone: "GMT+08:00"
     text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   commit_name: "readme-bot"
