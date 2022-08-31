@@ -1,9 +1,6 @@
 name: Update README
 
-on:
-  schedule:
-    - cron: '*/30 * * * *' # Update every 30 minutes
-  workflow_dispatch:
+on: [push,pull_request]
 
 jobs:
   build:
