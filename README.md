@@ -23,7 +23,7 @@ Last Updated: Wednesday, August 31st, 2022, 9:28:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
-### 📊 GitHub Stats:
+<!-- ### 📊 GitHub Stats: -->
 ![](https://github-readme-stats.vercel.app/api?username=bysomeone&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=bysomeone&theme=vue&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bysomeone&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
