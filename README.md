@@ -69,6 +69,5 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bysomeone&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Metrics](/github-metrics.svg)
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
