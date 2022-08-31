@@ -1,11 +1,6 @@
 name: A Crom to Update README
 
-on:
-  push:
-  workflow_dispatch:
-  schedule:
-    # At 00:00 ET/EST every day
-    - cron:  '0 1/8 * * *'
+on: [push,pull_request]
 
 jobs:
   build:
