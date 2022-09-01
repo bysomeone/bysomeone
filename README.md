@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=bysomeone&icon=0&color=0" alt="bysomeone" /> </p>
 
-- 🌱 I’m currently focus on blockchain
+- 🌱 Currently focus on blockchain
 
-- 📫 How to reach me **cryplo@foxmail.com**
+- 📫 Contact **cryplo@foxmail.com**
 
 
 ### Recent Activity
