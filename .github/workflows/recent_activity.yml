@@ -1,8 +1,8 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: '10 3 * * *'
+  schedule: # 00:30 UTC
+    - cron: '30 0 * * *'
   workflow_dispatch:
 
 jobs:

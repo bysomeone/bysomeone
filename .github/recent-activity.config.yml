@@ -1,6 +1,6 @@
 settings:
   username: "bysomeone" # Replace with your username or comment out this line
-  commit_msg: "⚡ Update README with the recent activity"
+  commit_msg: ":memo: Update README with the recent activity"
   max_lines: 5
 #  readme_file: "./README.md"
   disabled_events:
@@ -10,8 +10,8 @@ settings:
     timezone: "GMT+08:00"
     text: "Last Updated: {DATE}"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
-  commit_name: "github-bot"
-  commit_email: "11565373+bysomeone@users.noreply.github.com"
+  commit_name: "github-actions"
+  commit_email: "11565373+github-actions[bot]@users.noreply.github.com"
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   issue_opened: "❗️ Opened issue {ID} in {REPO}"
