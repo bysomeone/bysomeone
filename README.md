@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bysomeone/bysomeone](https://github.com/bysomeone/bysomeone)
-2. 📔 Created new repository [bysomeone/bysomeone](https://github.com/bysomeone/bysomeone)
-3. 🎉 Merged PR [#161](https://github.com/bityuan/bityuan/pull/161) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
-4. 💪 Opened PR [#161](https://github.com/bityuan/bityuan/pull/161) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
-5. ❗️ Opened issue [#1268](https://github.com/33cn/chain33/issues/1268) in [33cn/chain33](https://github.com/33cn/chain33)
+1. 💪 Opened PR [#1225](https://github.com/33cn/plugin/pull/1225) in [33cn/plugin](https://github.com/33cn/plugin)
+2. ⭐ Starred [33cn/plugin](https://github.com/33cn/plugin)
+3. ❗️ Opened issue [#1224](https://github.com/33cn/plugin/issues/1224) in [33cn/plugin](https://github.com/33cn/plugin)
+4. ⭐ Starred [bysomeone/bysomeone](https://github.com/bysomeone/bysomeone)
+5. 📔 Created new repository [bysomeone/bysomeone](https://github.com/bysomeone/bysomeone)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 7th, 2022, 11:18:07 AM
+Last Updated: Thursday, September 8th, 2022, 11:15:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
