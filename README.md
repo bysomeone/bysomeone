@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ZenGo-X/multi-party-ecdsa](https://github.com/ZenGo-X/multi-party-ecdsa)
-2. 💪 Opened PR [#1227](https://github.com/33cn/plugin/pull/1227) in [33cn/plugin](https://github.com/33cn/plugin)
-3. 💪 Opened PR [#1273](https://github.com/33cn/chain33/pull/1273) in [33cn/chain33](https://github.com/33cn/chain33)
-4. ⭐ Starred [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-5. 💪 Opened PR [#164](https://github.com/bityuan/bityuan/pull/164) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+1. 💪 Opened PR [#1236](https://github.com/33cn/plugin/pull/1236) in [33cn/plugin](https://github.com/33cn/plugin)
+2. ⭐ Starred [ZenGo-X/multi-party-ecdsa](https://github.com/ZenGo-X/multi-party-ecdsa)
+3. 💪 Opened PR [#1227](https://github.com/33cn/plugin/pull/1227) in [33cn/plugin](https://github.com/33cn/plugin)
+4. 💪 Opened PR [#1273](https://github.com/33cn/chain33/pull/1273) in [33cn/chain33](https://github.com/33cn/chain33)
+5. ⭐ Starred [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 29th, 2022, 10:07:21 AM
+Last Updated: Wednesday, November 30th, 2022, 10:06:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
