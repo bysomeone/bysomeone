@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yccproject/ycc](https://github.com/yccproject/ycc)
-2. 💪 Opened PR [#1236](https://github.com/33cn/plugin/pull/1236) in [33cn/plugin](https://github.com/33cn/plugin)
-3. ⭐ Starred [ZenGo-X/multi-party-ecdsa](https://github.com/ZenGo-X/multi-party-ecdsa)
-4. 💪 Opened PR [#1227](https://github.com/33cn/plugin/pull/1227) in [33cn/plugin](https://github.com/33cn/plugin)
-5. 💪 Opened PR [#1273](https://github.com/33cn/chain33/pull/1273) in [33cn/chain33](https://github.com/33cn/chain33)
+1. 👍 Approved [#1276](https://github.com/33cn/chain33/pull/1276#pullrequestreview-1211351748) in [33cn/chain33](https://github.com/33cn/chain33)
+2. ⭐ Starred [bysomeone/bysomeone](https://github.com/bysomeone/bysomeone)
+3. 💬 Commented on [#1276](https://github.com/33cn/chain33/pull/1276#discussion_r1042902687) in [33cn/chain33](https://github.com/33cn/chain33)
+4. 💬 Commented on [#1276](https://github.com/33cn/chain33/pull/1276#discussion_r1042872349) in [33cn/chain33](https://github.com/33cn/chain33)
+5. 💬 Commented on [#1276](https://github.com/33cn/chain33/pull/1276#discussion_r1042869643) in [33cn/chain33](https://github.com/33cn/chain33)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 8th, 2022, 9:59:01 AM
+Last Updated: Sunday, December 11th, 2022, 10:08:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
