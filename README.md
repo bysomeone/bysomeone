@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1288](https://github.com/33cn/chain33/issues/1288) in [33cn/chain33](https://github.com/33cn/chain33)
-2. 💪 Opened PR [#1285](https://github.com/33cn/chain33/pull/1285) in [33cn/chain33](https://github.com/33cn/chain33)
-3. 💬 Commented on [#1279](https://github.com/33cn/chain33/issues/1279#issuecomment-1367812343) in [33cn/chain33](https://github.com/33cn/chain33)
-4. ✔️ Closed issue [#1279](https://github.com/33cn/chain33/issues/1279) in [33cn/chain33](https://github.com/33cn/chain33)
-5. ❗️ Opened issue [#1284](https://github.com/33cn/chain33/issues/1284) in [33cn/chain33](https://github.com/33cn/chain33)
+1. ✔️ Closed issue [#168](https://github.com/bityuan/bityuan/issues/168) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+2. 💬 Commented on [#165](https://github.com/bityuan/bityuan/pull/165#issuecomment-1385049563) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+3. 💬 Commented on [#167](https://github.com/bityuan/bityuan/pull/167#issuecomment-1385049509) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+4. 💬 Commented on [#169](https://github.com/bityuan/bityuan/pull/169#issuecomment-1385049459) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+5. ✌️ Released [v6.8.2](https://github.com/bityuan/bityuan/releases/tag/v6.8.2) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 15th, 2023, 10:01:52 AM
+Last Updated: Sunday, January 22nd, 2023, 10:02:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
