@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yccproject/ycc](https://github.com/yccproject/ycc)
-2. 💪 Opened PR [#1236](https://github.com/33cn/plugin/pull/1236) in [33cn/plugin](https://github.com/33cn/plugin)
-3. ⭐ Starred [ZenGo-X/multi-party-ecdsa](https://github.com/ZenGo-X/multi-party-ecdsa)
-4. 💪 Opened PR [#1227](https://github.com/33cn/plugin/pull/1227) in [33cn/plugin](https://github.com/33cn/plugin)
-5. 💪 Opened PR [#1273](https://github.com/33cn/chain33/pull/1273) in [33cn/chain33](https://github.com/33cn/chain33)
+1. 🎉 Merged PR [#174](https://github.com/bityuan/bityuan/pull/174) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+2. 💪 Opened PR [#174](https://github.com/bityuan/bityuan/pull/174) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+3. 🎉 Merged PR [#172](https://github.com/bityuan/bityuan/pull/172) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+4. 💪 Opened PR [#172](https://github.com/bityuan/bityuan/pull/172) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+5. 🎉 Merged PR [#1245](https://github.com/33cn/plugin/pull/1245) in [33cn/plugin](https://github.com/33cn/plugin)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 8th, 2022, 9:59:01 AM
+Last Updated: Sunday, February 12th, 2023, 10:05:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
