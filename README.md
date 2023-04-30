@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1258](https://github.com/33cn/plugin/pull/1258) in [33cn/plugin](https://github.com/33cn/plugin)
-2. 👍 Approved [#1258](https://github.com/33cn/plugin/pull/1258#pullrequestreview-1391194641) in [33cn/plugin](https://github.com/33cn/plugin)
-3. 🎉 Merged PR [#179](https://github.com/bityuan/bityuan/pull/179) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
-4. 💪 Opened PR [#179](https://github.com/bityuan/bityuan/pull/179) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
-5. 💬 Commented on [#1296](https://github.com/33cn/chain33/issues/1296#issuecomment-1501685167) in [33cn/chain33](https://github.com/33cn/chain33)
+1. 🎉 Merged PR [#1263](https://github.com/33cn/plugin/pull/1263) in [33cn/plugin](https://github.com/33cn/plugin)
+2. 👍 Approved [#1263](https://github.com/33cn/plugin/pull/1263#pullrequestreview-1401313105) in [33cn/plugin](https://github.com/33cn/plugin)
+3. 💪 Opened PR [#1298](https://github.com/33cn/chain33/pull/1298) in [33cn/chain33](https://github.com/33cn/chain33)
+4. 🎉 Merged PR [#2](https://github.com/bysomeone/chain33/pull/2) in [bysomeone/chain33](https://github.com/bysomeone/chain33)
+5. 👍 Approved [#2](https://github.com/bysomeone/chain33/pull/2#pullrequestreview-1399195059) in [bysomeone/chain33](https://github.com/bysomeone/chain33)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 23rd, 2023, 9:57:26 AM
+Last Updated: Sunday, April 30th, 2023, 9:50:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
