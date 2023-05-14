@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1263](https://github.com/33cn/plugin/pull/1263) in [33cn/plugin](https://github.com/33cn/plugin)
-2. 👍 Approved [#1263](https://github.com/33cn/plugin/pull/1263#pullrequestreview-1401313105) in [33cn/plugin](https://github.com/33cn/plugin)
-3. 💪 Opened PR [#1298](https://github.com/33cn/chain33/pull/1298) in [33cn/chain33](https://github.com/33cn/chain33)
-4. 🎉 Merged PR [#2](https://github.com/bysomeone/chain33/pull/2) in [bysomeone/chain33](https://github.com/bysomeone/chain33)
-5. 👍 Approved [#2](https://github.com/bysomeone/chain33/pull/2#pullrequestreview-1399195059) in [bysomeone/chain33](https://github.com/bysomeone/chain33)
+1. 👍 Approved [#1297](https://github.com/33cn/chain33/pull/1297#pullrequestreview-1416333843) in [33cn/chain33](https://github.com/33cn/chain33)
+2. 🎉 Merged PR [#1263](https://github.com/33cn/plugin/pull/1263) in [33cn/plugin](https://github.com/33cn/plugin)
+3. 👍 Approved [#1263](https://github.com/33cn/plugin/pull/1263#pullrequestreview-1401313105) in [33cn/plugin](https://github.com/33cn/plugin)
+4. 💪 Opened PR [#1298](https://github.com/33cn/chain33/pull/1298) in [33cn/chain33](https://github.com/33cn/chain33)
+5. 🎉 Merged PR [#2](https://github.com/bysomeone/chain33/pull/2) in [bysomeone/chain33](https://github.com/bysomeone/chain33)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 7th, 2023, 9:54:01 AM
+Last Updated: Sunday, May 14th, 2023, 9:52:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
