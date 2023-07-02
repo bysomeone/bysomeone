@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#187](https://github.com/bityuan/bityuan/pull/187#pullrequestreview-1476533039) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
-2. 👍 Approved [#1301](https://github.com/33cn/chain33/pull/1301#pullrequestreview-1464481199) in [33cn/chain33](https://github.com/33cn/chain33)
-3. 🎉 Merged PR [#186](https://github.com/bityuan/bityuan/pull/186) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
-4. 💬 Commented on [#1301](https://github.com/33cn/chain33/pull/1301#discussion_r1219062796) in [33cn/chain33](https://github.com/33cn/chain33)
-5. 🎉 Merged PR [#185](https://github.com/bityuan/bityuan/pull/185) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+1. 👍 Approved [#1302](https://github.com/33cn/chain33/pull/1302#pullrequestreview-1502363513) in [33cn/chain33](https://github.com/33cn/chain33)
+2. 👍 Approved [#187](https://github.com/bityuan/bityuan/pull/187#pullrequestreview-1476533039) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+3. 👍 Approved [#1301](https://github.com/33cn/chain33/pull/1301#pullrequestreview-1464481199) in [33cn/chain33](https://github.com/33cn/chain33)
+4. 🎉 Merged PR [#186](https://github.com/bityuan/bityuan/pull/186) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+5. 💬 Commented on [#1301](https://github.com/33cn/chain33/pull/1301#discussion_r1219062796) in [33cn/chain33](https://github.com/33cn/chain33)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 25th, 2023, 10:27:54 AM
+Last Updated: Sunday, July 2nd, 2023, 10:21:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
