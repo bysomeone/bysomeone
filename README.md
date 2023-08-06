@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bysomeone/okex](https://github.com/bysomeone/okex) from [amir-the-h/okex](https://github.com/amir-the-h/okex)
-2. ❗️ Opened issue [#31](https://github.com/amir-the-h/okex/issues/31) in [amir-the-h/okex](https://github.com/amir-the-h/okex)
-3. ❗️ Opened issue [#30](https://github.com/amir-the-h/okex/issues/30) in [amir-the-h/okex](https://github.com/amir-the-h/okex)
-4. 👍 Approved [#1302](https://github.com/33cn/chain33/pull/1302#pullrequestreview-1502363513) in [33cn/chain33](https://github.com/33cn/chain33)
-5. 👍 Approved [#187](https://github.com/bityuan/bityuan/pull/187#pullrequestreview-1476533039) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+1. ❗️ Opened issue [#1305](https://github.com/33cn/chain33/issues/1305) in [33cn/chain33](https://github.com/33cn/chain33)
+2. 🔱 Forked [bysomeone/okex](https://github.com/bysomeone/okex) from [amir-the-h/okex](https://github.com/amir-the-h/okex)
+3. ❗️ Opened issue [#31](https://github.com/amir-the-h/okex/issues/31) in [amir-the-h/okex](https://github.com/amir-the-h/okex)
+4. ❗️ Opened issue [#30](https://github.com/amir-the-h/okex/issues/30) in [amir-the-h/okex](https://github.com/amir-the-h/okex)
+5. 👍 Approved [#1302](https://github.com/33cn/chain33/pull/1302#pullrequestreview-1502363513) in [33cn/chain33](https://github.com/33cn/chain33)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 30th, 2023, 9:44:51 AM
+Last Updated: Sunday, August 6th, 2023, 9:36:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
