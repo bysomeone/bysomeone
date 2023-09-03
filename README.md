@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1305](https://github.com/33cn/chain33/issues/1305) in [33cn/chain33](https://github.com/33cn/chain33)
-2. 🔱 Forked [bysomeone/okex](https://github.com/bysomeone/okex) from [amir-the-h/okex](https://github.com/amir-the-h/okex)
-3. ❗️ Opened issue [#31](https://github.com/amir-the-h/okex/issues/31) in [amir-the-h/okex](https://github.com/amir-the-h/okex)
-4. ❗️ Opened issue [#30](https://github.com/amir-the-h/okex/issues/30) in [amir-the-h/okex](https://github.com/amir-the-h/okex)
-5. 👍 Approved [#1302](https://github.com/33cn/chain33/pull/1302#pullrequestreview-1502363513) in [33cn/chain33](https://github.com/33cn/chain33)
+1. ❌ Closed PR [#1304](https://github.com/33cn/chain33/pull/1304) in [33cn/chain33](https://github.com/33cn/chain33)
+2. 💬 Commented on [#1304](https://github.com/33cn/chain33/pull/1304#issuecomment-1702424890) in [33cn/chain33](https://github.com/33cn/chain33)
+3. 💪 Opened PR [#1307](https://github.com/33cn/chain33/pull/1307) in [33cn/chain33](https://github.com/33cn/chain33)
+4. ❗️ Opened issue [#1305](https://github.com/33cn/chain33/issues/1305) in [33cn/chain33](https://github.com/33cn/chain33)
+5. 🔱 Forked [bysomeone/okex](https://github.com/bysomeone/okex) from [amir-the-h/okex](https://github.com/amir-the-h/okex)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 27th, 2023, 9:33:55 AM
+Last Updated: Sunday, September 3rd, 2023, 9:34:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
