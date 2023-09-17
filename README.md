@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1308](https://github.com/33cn/chain33/pull/1308) in [33cn/chain33](https://github.com/33cn/chain33)
-2. ❌ Closed PR [#1304](https://github.com/33cn/chain33/pull/1304) in [33cn/chain33](https://github.com/33cn/chain33)
-3. 💬 Commented on [#1304](https://github.com/33cn/chain33/pull/1304#issuecomment-1702424890) in [33cn/chain33](https://github.com/33cn/chain33)
-4. 💪 Opened PR [#1307](https://github.com/33cn/chain33/pull/1307) in [33cn/chain33](https://github.com/33cn/chain33)
-5. ❗️ Opened issue [#1305](https://github.com/33cn/chain33/issues/1305) in [33cn/chain33](https://github.com/33cn/chain33)
+1. ✔️ Closed issue [#1311](https://github.com/33cn/chain33/issues/1311) in [33cn/chain33](https://github.com/33cn/chain33)
+2. 🎉 Merged PR [#1310](https://github.com/33cn/chain33/pull/1310) in [33cn/chain33](https://github.com/33cn/chain33)
+3. 👍 Approved [#1310](https://github.com/33cn/chain33/pull/1310#pullrequestreview-1628483880) in [33cn/chain33](https://github.com/33cn/chain33)
+4. 🎉 Merged PR [#1312](https://github.com/33cn/chain33/pull/1312) in [33cn/chain33](https://github.com/33cn/chain33)
+5. 💪 Opened PR [#1312](https://github.com/33cn/chain33/pull/1312) in [33cn/chain33](https://github.com/33cn/chain33)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 10th, 2023, 9:35:06 AM
+Last Updated: Sunday, September 17th, 2023, 9:35:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
