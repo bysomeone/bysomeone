@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1311](https://github.com/33cn/chain33/issues/1311) in [33cn/chain33](https://github.com/33cn/chain33)
-2. 🎉 Merged PR [#1310](https://github.com/33cn/chain33/pull/1310) in [33cn/chain33](https://github.com/33cn/chain33)
-3. 👍 Approved [#1310](https://github.com/33cn/chain33/pull/1310#pullrequestreview-1628483880) in [33cn/chain33](https://github.com/33cn/chain33)
-4. 🎉 Merged PR [#1312](https://github.com/33cn/chain33/pull/1312) in [33cn/chain33](https://github.com/33cn/chain33)
-5. 💪 Opened PR [#1312](https://github.com/33cn/chain33/pull/1312) in [33cn/chain33](https://github.com/33cn/chain33)
+1. 🎉 Merged PR [#191](https://github.com/bityuan/bityuan/pull/191) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+2. 💪 Opened PR [#191](https://github.com/bityuan/bityuan/pull/191) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+3. 🎉 Merged PR [#189](https://github.com/bityuan/bityuan/pull/189) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+4. 👍 Approved [#189](https://github.com/bityuan/bityuan/pull/189#pullrequestreview-1670298605) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+5. ✔️ Closed issue [#1311](https://github.com/33cn/chain33/issues/1311) in [33cn/chain33](https://github.com/33cn/chain33)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 8th, 2023, 9:37:07 AM
+Last Updated: Sunday, October 15th, 2023, 9:37:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
