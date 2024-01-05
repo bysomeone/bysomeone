@@ -76,3 +76,11 @@ Last Updated: Sunday, December 31st, 2023, 9:40:58 AM
 
 
 <!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
+
+
+
+### Buy Me a Coffee ☕
+
+- <img src="https://img.icons8.com/color/22/bitcoin"/>  <code>bc1pls24yqqd4f5ts87k963r7nflgm0czl5gp08sjlaxxnfa42nh48cszgqq0w</code>
+- <img src="https://img.icons8.com/color/22/ethereum"/>  <code>0xea3699875bbf2e0441b40b2d4a6c46ddbd56384f</code>
+- <img src="https://img.icons8.com/fluency/22/null/doge.png"/>  <code>DMnBEuLHvHK57KpJa4Ti3e3Ys7HzcLNA6r</code>
