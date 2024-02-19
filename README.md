@@ -11,13 +11,10 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1279](https://github.com/33cn/plugin/pull/1279) in [33cn/plugin](https://github.com/33cn/plugin)
-2. 👍 Approved [#1279](https://github.com/33cn/plugin/pull/1279#pullrequestreview-1735957272) in [33cn/plugin](https://github.com/33cn/plugin)
-3. 🎉 Merged PR [#1317](https://github.com/33cn/chain33/pull/1317) in [33cn/chain33](https://github.com/33cn/chain33)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 16th, 2024, 9:29:08 AM
+Last Updated: Monday, February 19th, 2024, 9:31:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
