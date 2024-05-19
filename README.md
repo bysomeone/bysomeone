@@ -11,15 +11,15 @@
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1324](https://github.com/33cn/chain33/pull/1324) in [33cn/chain33](https://github.com/33cn/chain33)
-2. 🎉 Merged PR [#202](https://github.com/bityuan/bityuan/pull/202) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
-3. 💪 Opened PR [#202](https://github.com/bityuan/bityuan/pull/202) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
-4. 💪 Opened PR [#1322](https://github.com/33cn/chain33/pull/1322) in [33cn/chain33](https://github.com/33cn/chain33)
-5. 💪 Opened PR [#1284](https://github.com/33cn/plugin/pull/1284) in [33cn/plugin](https://github.com/33cn/plugin)
+1. 💪 Opened PR [#1285](https://github.com/33cn/plugin/pull/1285) in [33cn/plugin](https://github.com/33cn/plugin)
+2. 💪 Opened PR [#1324](https://github.com/33cn/chain33/pull/1324) in [33cn/chain33](https://github.com/33cn/chain33)
+3. 🎉 Merged PR [#202](https://github.com/bityuan/bityuan/pull/202) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+4. 💪 Opened PR [#202](https://github.com/bityuan/bityuan/pull/202) in [bityuan/bityuan](https://github.com/bityuan/bityuan)
+5. 💪 Opened PR [#1322](https://github.com/33cn/chain33/pull/1322) in [33cn/chain33](https://github.com/33cn/chain33)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 16th, 2024, 9:36:21 AM
+Last Updated: Sunday, May 19th, 2024, 9:41:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
