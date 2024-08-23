@@ -62,7 +62,7 @@ DB
 Devops
 
 ![Docker](https://img.shields.io/badge/docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-172B4d.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-d24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GithubActions](https://img.shields.io/badge/GithubActions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -70,9 +70,9 @@ Devops
 
 Version Control
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/git-609926?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 <!-- ### 🏆 GitHub Trophies -->
