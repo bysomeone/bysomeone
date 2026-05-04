@@ -12,12 +12,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#1345](https://github.com/33cn/chain33/pull/1345#discussion_r3114901538) in [33cn/chain33](https://github.com/33cn/chain33)
-2. 💪 Opened PR [#1293](undefined) in [33cn/plugin](https://github.com/33cn/plugin)
-3. 💪 Opened PR [#1345](undefined) in [33cn/chain33](https://github.com/33cn/chain33)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 1st, 2026, 12:33:02 PM
+Last Updated: Monday, May 4th, 2026, 12:14:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
